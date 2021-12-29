@@ -93,7 +93,7 @@ printf "\e[0m\e[93m | \| |__|       \_/  |_| |_\ |_____| |_/  \e[0m\e[1;46m[V 1.
 printf "\e[0m\n"
 printf "    \e[0m\e[1;44m Advanced Phishing Tool with 30+ Templates\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[91m    [\e[0m\e[96m BY \e[0m\e[91m: \e[0m\e[96mhttps://github.com/htr-tech \e[0m\e[91m] \e[0m\n"
+printf "\e[0m\e[91m    [\e[0m\e[96m BY \e[0m\e[91m: \e[0m\e[96mhttps://github.com/samray69 \e[0m\e[91m] \e[0m\n"
 printf "\e[0m\n"
 
 }
