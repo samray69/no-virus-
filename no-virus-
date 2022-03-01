@@ -8,8 +8,9 @@ user_interrupt(){
         printf "\e[0m\n"
         printf "\e[0m\e[1;36m\t CTRL + C Pressed !!\n"
         sleep 2
-        printf "\e[0m\n"
-        printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/htr-tech for more\e[0m\n"
+        printf "\e[0m\n
+
+        printf " \e[0m\e[1;42m Thanks for Using This Tool [0m\n
         printf "\e[0m\n"
         exit 1
 }
